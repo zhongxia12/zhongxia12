@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhongxia12/zhongxia12/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<!--
 
 [![zhongxia12's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhongxia12&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+-->
