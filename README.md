@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎访问我的主页)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+homepage)](https://git.io/typing-svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongxia12&theme=radical)
 
 
 <picture>
@@ -23,3 +25,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhongxia12/zhongxia12/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhongxia12/zhongxia12/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+[![zhongxia12's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhongxia12&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
